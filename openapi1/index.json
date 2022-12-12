@@ -45,8 +45,8 @@
         "imageid": "kubernetes-cluster-running:1.18",
         "userid": 1000,
         "envs": [
-            {"name": "HOME", "value": "/home"},
-            {"name": "USER", "value": "user"}
+            {"name": "HOME", "value": "/root"},
+            {"name": "USER", "value": "84"}
         ]
     }
 }
