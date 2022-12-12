@@ -27,8 +27,8 @@
         },
         "assets": {
             "host01": [
-                {"file": "httpbin.yaml", "target": "/root"},
-                {"file": "httpbin-openapi.yaml", "target": "/root"},
+                {"file": "httpbin.yaml", "target": "/home/ubuntu/"},
+                {"file": "httpbin-openapi.yaml", "target": "/home/ubuntu/"},
                 {"file": "prepare.sh", "target": "/usr/local/bin", "chmod": "+x"}
             ]
           }
@@ -43,7 +43,7 @@
     },
     "backend": {
         "imageid": "kubernetes-cluster-running:1.18",
-        "userid": 10001,
+        "userid": 1000,
         "envs": [
             {"name": "HOME", "value": "/home/ubuntu/"},
             {"name": "USER", "value": "ubuntu"}
