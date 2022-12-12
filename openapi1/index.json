@@ -46,7 +46,7 @@
         "userid": 1000,
         "envs": [
             {"name": "HOME", "value": "/home/ubuntu/"},
-            {"name": "USER", "value": "root"}
+            {"name": "USER", "value": "ubuntu"}
         ]
     }
 }
