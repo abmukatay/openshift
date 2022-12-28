@@ -44,6 +44,7 @@
     "backend": {
         "imageid": "kubernetes-cluster-running:1.18",
         "userid": 1000,
+        "groupid": 1002,
         "envs": [
             {"name": "HOME", "value": "/home/ubuntu/"},
             {"name": "USER", "value": "ubuntu"}
