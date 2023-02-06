@@ -62,7 +62,7 @@
         "uisettings": "py",
         "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
     },
-    "layoutType": "LAYOUT_TYPE_TERMINAL",
+    "layoutType": "LAYOUT_TYPE_TERMINAL_ONLY2",
     "backend": {
       "imageid": "ubuntu:2004"
     }
