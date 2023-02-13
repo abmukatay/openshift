@@ -58,8 +58,7 @@
         {
           "name": "infra",
           "displayName": "infra",
-          "description": "This is project for exercise dependencies workloads",
-          "uiRole": "view"
+          "description": "This is project for exercise dependencies workloads"
         },
         {
           "name": "adm",
