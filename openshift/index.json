@@ -59,7 +59,7 @@
           "name": "infra",
           "displayName": "infra",
           "description": "This is project for exercise dependencies workloads",
-          "uiRole": "admin"
+          "uiRole": "edit"
         },
         {
           "name": "adm",
